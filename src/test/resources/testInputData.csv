@@ -1,2 +1,5 @@
 "Bu bir test cümlesidir",4
 "Bu cümle, virgül ve nokta bulunan bir test cümlesidir.",9
+"Bu test cümlesi içinde fazladan     boşluk     bulunan ve    aynı   kelimeler içeren bir   test cümlesidir.",13
+"Bu bir türkçe karakter testidir: ÇİLEKEŞ çilekeş",6
+"Bu test noktalama işaretlerinin , kelimeden sayılmaması gerektiğini doğrulamak içindir .",9
